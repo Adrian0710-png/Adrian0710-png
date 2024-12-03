@@ -6,7 +6,7 @@ I am a technical writer with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey in computers field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an entry lever or intern Analyst.
+My journey in computers field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an entry level or intern Analyst.
 
 ## Skills
 
@@ -21,7 +21,7 @@ My journey in computers field has led me to develop a passion for cybersecurity,
 ## Projects
 - Intercecpting HTTP traffic with Burp Proxy
 - Conduct a security audit
-- Analyze network attacks
+- Analyze network attacks with wireshark
 <!--
 **Adrian0710-png/Adrian0710-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
