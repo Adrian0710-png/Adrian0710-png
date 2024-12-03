@@ -21,7 +21,7 @@ My journey in the field of computers has ignited a deep passion for the IT world
 ## Projects
 - Intercecpting HTTP traffic with Burp Proxy
 - Conduct a security audit
-- Analyze network attacks with wireshark
+- Analyze network attacks with Wireshark
 <!--
 **Adrian0710-png/Adrian0710-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
