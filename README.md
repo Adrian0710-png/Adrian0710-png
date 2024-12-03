@@ -6,7 +6,7 @@ I am a technical writer with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey in computers field has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as an entry level or intern Analyst.
+My journey in the field of computers has ignited a deep passion for the IT world, and I am now excited to transition into this industry, with the goal of joining a company that will support my professional growth
 
 ## Skills
 
