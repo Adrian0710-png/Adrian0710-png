@@ -19,9 +19,14 @@ My journey in the field of computers has ignited a deep passion for the IT world
 | CCNA introduction to networks                 | <a href="[[https://google.com](https://www.netacad.com/certificates?issuanceId=1fbb72e8-917e-4796-8a4a-4e49c4fa7809)">CCNAv7: Introduction to Networks</a>|
 
 ## Projects
-- Intercecpting HTTP traffic with Burp Proxy
+- Intercepting HTTP traffic with Burp Proxy
 - Conduct a security audit
 - Analyze network attacks with Wireshark
+
+## Upcoming certifications
+- Comptia A+
+- Azure Fundamentals
+
 <!--
 **Adrian0710-png/Adrian0710-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
