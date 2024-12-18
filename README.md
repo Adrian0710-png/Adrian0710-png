@@ -24,6 +24,9 @@ My journey in the field of computers has ignited a deep passion for the IT world
 - Intercepting HTTP traffic with Burp Proxy
 - Conduct a security audit
 - Analyze network attacks with Wireshark
+- Troubleshooting systems at home: printers, computers and routers.
+- I created my virtual lab
+- 
 
 ## Upcoming certifications
 - Comptia A+
