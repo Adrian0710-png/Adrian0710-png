@@ -3,9 +3,8 @@
 <a href="https://linkedin.com"><img src="[https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/adrian-mihai-andrei-a4322b1b1/)" /></a>
 
 ## Introduction
-I am a highly passionate IT enthusiast who has been immersed in technology for as long as I can remember. I've worked with computers since I was a child, and at the age of 18, I built my first PC entirely from parts I sourced online. Since then, I’ve also created a virtual lab to deepen my technical skills. Currently, I am learning Azure and preparing for the CompTIA A+ certification to broaden my knowledge of software, hardware, and cloud technologies.
-In addition to my hands-on experience, I configured and troubleshoot my home printer, keeping it running efficiently. I’m also expanding my expertise by learning SQL and Python through Codecademy. My networking skills were developed through a CCNA course I completed at Telekom Academy, and I’ve gained foundational cybersecurity knowledge through Coursera. Protecting systems and people in the digital space is an area I find particularly exciting and rewarding.
-I am eager to bring my passion and skills to a professional IT environment where I can contribute, learn, and grow. I’m a quick learner, an efficient problem solver, and an excellent communicator, and I’m ready to take on new challenges in the IT field with enthusiasm and dedication.
+
+I am a passionate IT enthusiast with hands-on experience, from building my first PC at 18 to creating a virtual lab to deepen my skills. I’m currently learning Azure, preparing for the CompTIA A+ certification, and studying SQL and Python. With networking knowledge from a CCNA course and cybersecurity basics from Coursera, I’m eager to bring my skills and dedication to a professional IT role.
 
 ## Objective
 
